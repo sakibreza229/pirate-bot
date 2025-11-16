@@ -1,0 +1,61 @@
+{
+  "911132647244329010": {
+    "coins": 1759,
+    "inventory": {
+      "Silver Doubloon": 1,
+      "Mystery Treasure Chest": 1,
+      "Ancient Doubloon": 1
+    },
+    "last_loot": 1763307155.9986804,
+    "last_daily": 0,
+    "last_weekly": 1763287005.7799551,
+    "title": "Gunner",
+    "boosts": {
+      "double_loot": 1763379066.7754395
+    },
+    "total_loots": 0,
+    "missions_completed": 3,
+    "biggest_loot": 894
+  },
+  "1378574876084015236": {
+    "coins": 1253,
+    "inventory": {
+      "Silver Doubloon": 1,
+      "Mystery Treasure Chest": 1
+    },
+    "last_loot": 1763295905.0916488,
+    "last_daily": 1763295921.5812662,
+    "last_weekly": 1763296074.077107,
+    "title": "Deck Swabber",
+    "boosts": {},
+    "total_loots": 0,
+    "missions_completed": 4,
+    "biggest_loot": 622,
+    "active_mission": {
+      "name": "Kraken Hunt",
+      "start_time": 1763305624.0766497,
+      "end_time": 1763334424.0766497,
+      "reward": 1439446496645746740350,
+      "duration": 8
+    }
+  },
+  "1213184258085097552": {
+    "coins": 45,
+    "inventory": {},
+    "last_loot": 1763299410.735028,
+    "last_daily": 1763306354.7384315,
+    "last_weekly": 0,
+    "title": "Deck Swabber",
+    "boosts": {},
+    "total_loots": 0,
+    "missions_completed": 0,
+    "biggest_loot": 35,
+    "active_mission": {
+      "name": "Dragon Turtle Hunt",
+      "start_time": 1763305709.6911,
+      "end_time": 1763377709.6911,
+      "reward": 14394464966457467402000,
+      "duration": 20
+    }
+  }
+}
